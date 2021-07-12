@@ -1,1 +1,1 @@
-base code for secure infer (come soon)
+base code for secure infer (come soon depend on customized cuda-fuxnum https://github.com/Zhouzp2115/cuda-fixnum)
