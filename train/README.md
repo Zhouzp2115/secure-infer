@@ -1,1 +1,1 @@
-traing models using pytorch
+train models using pytorch
