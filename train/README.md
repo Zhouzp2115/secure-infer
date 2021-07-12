@@ -1,1 +1,1 @@
-traing modes using pytorch
+traing models using pytorch
